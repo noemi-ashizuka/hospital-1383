@@ -1,0 +1,6 @@
+id,name,cured,room_id
+1,Jane,false
+2,Tiger,false
+3,Vincent,true
+4,Martin,false
+5,Martin,false
